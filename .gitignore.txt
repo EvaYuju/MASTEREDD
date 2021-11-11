@@ -1,0 +1,6 @@
+Qué es GIT.
+Es un software de control de versiones desarrollado por Linus Torvalds, el creador de Linux,
+que detecta los cambios que se ejecutan en un archivo o carpeta. Cada cambio que hagas
+en un directorio, GIT se da cuenta y lo registra. El control de versiones distribuido permite a
+los desarrolladores descargar un software, realizar cambios y subir la versión que han
+modificado.
